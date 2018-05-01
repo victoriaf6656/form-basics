@@ -1,0 +1,69 @@
+Title: Animal Care Program (ACP)
+Slogan: Any Age, Come aboard to help these Helpless Animals!
+Navigation Bar
+About
+List of Volunteer/Rescuing Work
+Rewards
+Contact
+Responses
+Menu Glyphicon
+About
+This program is about caring for animals, where you will spend time volunteering in different animal centers taking care of the animals. Animals centers may include Farms, Zoos, Vet hospitals, and others. 
+Volunteer Work: 3 hours
+Benefits:
+Beneficial for Completing and Submitting forms of Volunteer Work
+Beneficial for Resume Records 
+Useful in the future for careers and jobs
+Rewards: Spend time with the Animals for 1 hour (After Volunteer)
+Animal Therapy w/ images
+Play with them w/ images
+Feed the Animals w/ images
+Volunteer and Rescues
+Information: Act Now! To help out, you can do the following
+How to Help:
+Button for Donate (Go to Donate Section)
+Button for Sign Up (Go to Signup section)
+Button for Adoption/ Foster (Go to Adoption Section)
+Places to help out (list)
+Source: Google Search: Volunteer
+ASPCA
+ACC
+Sign up for volunteer/rescue animals
+Name: First Last inputs
+Email: input
+Phone Number Input
+Assigned Place (list)
+Ask a Question: How many people? If many, create a group.
+Number Input (Dropdown)
+Ask a question: Why do you want to volunteer?
+Answer Input
+Submit Input
+Reset Input
+
+Donate
+Name Input (First  Middle (optional) Last)
+Email Input
+Phone Number Input
+Ask for how much money
+Submit Input
+Reset Input
+Adoption/Foster
+Name Input (First Middle Last)
+Checkbox/Radio for animals (images)
+Ask a question: Pick Up or Mail
+If Pick Up, ask for location
+If Mail, ask for location
+Submit Input 
+Reset Input
+Contact
+Phone Number: 917- 130 - 1320 (Phone Glyphicon)
+Email: animalscare@gmail.com (Email Glyphicon)
+By providing my mobile number, I agree to receive periodic text messages from the ACP. Text STOP to opt-out, HELP for more info. Message and data rates may apply. Terms & Conditions / Privacy Policy (checkbox)
+Responses (Testimonials)
+“This was fun. After I got used to this, the animals cuddled up to me. It was so cute!”- Rachael Wang
+“I came to volunteer with my friends and it was fun. Time passed by as if it was nothing.”- Leo Sabatello
+“I want to volunteer more!”- Jessica Wu
+“Working with other people help me refresh my mind a bit. To decide yourself what you want to do, you gotta do it!”- Virginia Harbron
+“Volunteering is a great benefit towards your future!” - Thomas Berson
+Footer
+Copyright
